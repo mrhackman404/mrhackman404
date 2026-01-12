@@ -1,7 +1,7 @@
-## Hi!! 👋
+## 👋
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Sakib;Computer+Science+and+Physics+Student;AI+%7C+Data+%7C+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Sakib;Computer+Science,+Physics+Student;AI+%7C+Data+%7C+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
