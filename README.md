@@ -31,10 +31,12 @@ I’m a **Computer Science and Physics student** interested in building efficien
 
 ### 🔬 Interests
 
-* Artificial Intelligence & Machine Learning
+* Artificial Intelligence, Machine Learning, Deep Learning, Neural Network
+* Digital Signal Processing, Image Processing
+* Cybersecurity and OSINT
 * OS and Programming
 * UI/UX
-* Data Analysis, Medical/Radiological Processing & Scientific Computing
+* Data Analysis, Statistical/Numerical Analysis, Medical/Radiological Processing & Scientific Computing
 * Creative Tools, Design, and Music Production
 
 ---
